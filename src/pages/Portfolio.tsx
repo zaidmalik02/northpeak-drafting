@@ -55,8 +55,7 @@ const projects = [
     id: 3,
     title: 'Commercial Warehouse Facility',
     category: 'Commercial',
-    image:
-      'https://images.pexels.com/photos/1115809/pexels-photo-1115809.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image:'https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=800',
     services: [
       'Steel Structure Drafting',
       'Frame Marking Plans',
